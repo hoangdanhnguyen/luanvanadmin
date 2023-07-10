@@ -1,0 +1,45 @@
+{
+    "categories": [
+        {
+            "name": "Áo",
+            "subcategory": [
+                "Áo ngủ",
+                "Áo sơ mi",
+                "Áo vest",
+                "Áo khoác",
+                "Áo Polo"
+            ]
+        },
+        {
+            "name": "Quần",
+            "subcategory": [
+                "Quần Jeans",
+                "Quần Kaki",
+                "Quần tây",
+                "Quần Jogger"
+            ]
+        },
+        {
+            "name": "Đồ bộ",
+            "subcategory": [
+                "Set đồ bộ nữ thun lạnh",
+                "Set đồ bộ nữ cotton",
+                "Set đồ bộ nữ bông"
+            ]
+        },
+        {
+            "name": "Váy",
+            "subcategory": [
+                "Váy ngắn",
+                "Váy dài"
+            ]
+        },
+        {
+            "name": "Đồ bơi",
+            "subcategory": [
+                "Bikini loại 1",
+                "Bikini loại 2"
+            ]
+        }
+    ]
+}

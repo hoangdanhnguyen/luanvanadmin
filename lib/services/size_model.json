@@ -1,0 +1,24 @@
+{
+        "size": [
+            {
+                "name": "Size S",
+                "subcsize": [
+                    
+                ]
+            },
+            {
+                "name": "Size M",
+                "subsize": [
+
+                ]
+            },
+            {
+                "name": "Size L",
+                "subsize": [
+                    "L",
+                    "XL",
+                    "XXL"
+                ]
+            }
+        ]
+    }
